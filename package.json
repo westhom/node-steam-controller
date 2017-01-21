@@ -1,6 +1,6 @@
 {
   "name": "node-steam-controller",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Steam controller input events for Node",
   "main": "index.js",
   "scripts": {

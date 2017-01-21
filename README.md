@@ -21,6 +21,8 @@ controller.stick.on('move', function(event){
 controller.rpad.on('touch', function(event){
     console.log("the right pad was touched at", event.x, event.y);
 });
+
+controller.connect();
 ```
 
 For a full list of button types and events, see [API.md](API.md).
